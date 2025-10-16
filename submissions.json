@@ -1,0 +1,370 @@
+[
+    {
+        "submission_id": "7025455270_20250411_220312",
+        "user_id": 7025455270,
+        "username": "T3legrammoy",
+        "content_type": "text",
+        "file_path": "texts\\user7025455270_20250411_220312.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7025455270_20250411_220423",
+        "user_id": 7025455270,
+        "username": "T3legrammoy",
+        "content_type": "text",
+        "file_path": "texts\\user7025455270_20250411_220423.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "5037036344_20250411_220446",
+        "user_id": 5037036344,
+        "username": "kirill_qwertyu",
+        "content_type": "text",
+        "file_path": "texts\\user5037036344_20250411_220446.txt",
+        "status": "approved"
+    },
+    {
+        "submission_id": "6550677333_20250411_220924",
+        "user_id": 6550677333,
+        "username": "D79828",
+        "content_type": "text",
+        "file_path": "texts\\user6550677333_20250411_220924.txt",
+        "status": "pending"
+    },
+    {
+        "submission_id": "7025455270_20251006_195303",
+        "user_id": 7025455270,
+        "username": "Telegrso",
+        "content_type": "text",
+        "file_path": "texts\\user7025455270_20251006_195303.txt",
+        "status": "approved"
+    },
+    {
+        "submission_id": "7659337083_20251006_202146",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_202146.txt",
+        "status": "approved"
+    },
+    {
+        "submission_id": "7659337083_20251006_202216",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_202216.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_202720",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_202720.txt",
+        "status": "approved"
+    },
+    {
+        "submission_id": "7659337083_20251006_203934",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "photo",
+        "file_path": "photos\\user7659337083_20251006_203934.jpg",
+        "status": "approved"
+    },
+    {
+        "submission_id": "7659337083_20251006_204249",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "video",
+        "file_path": "videos\\user7659337083_20251006_204249.mp4",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_204355",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_204355.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_204536",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_204536.txt",
+        "status": "approved"
+    },
+    {
+        "submission_id": "7659337083_20251006_210102",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210102.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210103",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210103.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210104",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210104.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210105",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210105.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210106",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210106.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210106",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210106.txt",
+        "status": "pending"
+    },
+    {
+        "submission_id": "7659337083_20251006_210107",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210107.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210108",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210108.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210109",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210109.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210110",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210110.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210110",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210110.txt",
+        "status": "pending"
+    },
+    {
+        "submission_id": "7659337083_20251006_210111",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210111.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210112",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210112.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210113",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210113.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210114",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210114.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210115",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210115.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210116",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210116.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210118",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210118.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210118",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210118.txt",
+        "status": "pending"
+    },
+    {
+        "submission_id": "7659337083_20251006_210119",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210119.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210120",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210120.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210121",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210121.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210121",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210121.txt",
+        "status": "pending"
+    },
+    {
+        "submission_id": "7659337083_20251006_210122",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210122.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210123",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210123.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210124",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210124.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210125",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210125.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210126",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210126.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210127",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210127.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210128",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210128.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210129",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210129.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210130",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210130.txt",
+        "status": "rejected"
+    },
+    {
+        "submission_id": "7659337083_20251006_210130",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210130.txt",
+        "status": "pending"
+    },
+    {
+        "submission_id": "7659337083_20251006_210131",
+        "user_id": 7659337083,
+        "username": null,
+        "content_type": "text",
+        "file_path": "texts\\user7659337083_20251006_210131.txt",
+        "status": "rejected"
+    }
+]
